@@ -20,6 +20,7 @@ pipeline {
                 echo 'Tool Used: JUnit for Unit tests, Selenium for Integration tests'
             }
         }
+        // zxcghvgh
         stage('Code Analysis') {
             steps {
                 echo 'Task: Analysing code quality to ensure it meets industry standards.'
